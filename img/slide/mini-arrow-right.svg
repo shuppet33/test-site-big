@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 14" width="8" height="14">
+	<title>mini-arrow-right</title>
+	<defs>
+		<image  width="8" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAOBAMAAADgeEClAAAAAXNSR0IB2cksfwAAACFQTFRF/1gW/1gW/1gW/1gW/1gW/1gW/1gW/1gW/1gW/1gW/1gWD++QfAAAAAt0Uk5TBzwAof/ID6LJoD5XrKrjAAAANklEQVR4nGNgZFJSYjAJAxIlHklKDBkubUoMai0eSQxKQCaDklqLJ5QAccESYCVgxWBtXEADAAVsDtY+Z5yvAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Vector Smart Object" href="#img1" x="0" y="0"/>
+</svg>

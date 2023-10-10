@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 24" width="9" height="24">
+	<title>blue-arrow</title>
+	<defs>
+		<image  width="9" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAYCAMAAAAfxSccAAAAAXNSR0IB2cksfwAAAH5QTFRFRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrRnOrKRBnHAAAACp0Uk5TPK9BAMT/wgZhZgrW5BpslxPi+TuBwB3tZJHjGCf1nzk0trcXwQflZ8NCn9QdhgAAAHhJREFUeJxVz9kSgjAQRNHAeImouOACqCzu+v8/aJgIVvJ0KlOZdBsTxaLHTEis1xRSr9mcRaaSJay81hvyrUp2sLeqQwGlSio4nlTnGiqVNJC3qs5dXkZdw+n/Rb/lFm52v90fYYIxlUv6zIb0r6HR+9fIRB/f8gtV9wekG4mo0wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 810" href="#img1" x="0" y="0"/>
+</svg>

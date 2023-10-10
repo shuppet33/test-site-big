@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 43" width="34" height="43">
+	<title>new</title>
+	<defs>
+		<image  width="34" height="43" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAArCAMAAAAqlqo4AAAAAXNSR0IB2cksfwAAAIFQTFRFQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsQsFsYR8FCgAAACt0Uk5TYf3/5SehnABK5O1TD56yGUjiWw6a/q8XReHqWacVSU4RnRDn3xKR09CFDDGR0/YAAACKSURBVHic7dBZDoJAEEXRslGusyiiOII4u/8FahsJNAF6AXZ9vndSSZVIR7WO17WJjxGbUMoRRxz5P9KzCV/oD9rAcITAeNIspjM0gWDesGKh2y8hXEY1YrWmIBBvqmC7+1U5IfRNsT9QJXAsneYlRV4ipPmPolNGPYHkrMUlNkKTcL3dH8+Xmb0BxXAR9Vaax68AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 12px;line-height: 22px;text-transform: uppercase;fill: #ffffff;font-weight: 500;font-family: "Roboto-Medium", "Roboto" } 
+	</style>
+	<use id="Shape 5" href="#img1" x="0" y="0"/>
+	<text id="New" style="transform: matrix(1,0,0,1,4.113,25.73)" >
+		<tspan x="0" y="0" class="t0">NEW
+</tspan>
+	</text>
+</svg>
